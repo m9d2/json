@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // GitHub Pages 需要指定仓库名作为 base，确保资源路径正确
-  base: '/json_formatter/', 
+  base: '/json', 
 })
