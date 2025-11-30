@@ -288,7 +288,7 @@ export default function JsonFormatter() {
              加载示例
            </button>
            <a 
-             href="https://github.com" 
+             href="https://github.com/m9d2/json" 
              target="_blank"
              rel="noreferrer"
              className="bg-gray-900 text-white text-xs font-semibold px-4 py-1.5 rounded-full shadow hover:bg-gray-800 transition-transform active:scale-95 flex items-center gap-2"
